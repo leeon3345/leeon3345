@@ -83,6 +83,9 @@
 | **협업/프로젝트 관리** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 | **개발 커뮤니케이션** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
 
+#### 🏫 학력
+**단국대학교 컴퓨터 공학과**
+
 #### 📜 보유한 자격증 
 
 ![GTQ 1급](https://img.shields.io/badge/GTQ_1급_(Photoshop)-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
