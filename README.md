@@ -11,7 +11,7 @@
 
 ## 🚀 Projects
 
-### 1. Web FTP (보안 파일 전송 SaaS - 팀 프로젝트)
+### 1. Web FTP UI/UX 프로토타입 (보안 파일 전송 SaaS - 팀 프로젝트)
 **[역할: Product Manager / Product Planner]**
 
 * **[Problem]** 기존 FTP는 패킷 스니핑, FTP Bounce Attack 등 보안에 치명적인 취약점을 가지고 있었습니다.
@@ -20,6 +20,8 @@
   * **70페이지+ 분량의 요구사항 분석 명세서(RSD)** 및 **UI 설계서**를 완성했습니다.
   * 이 과정에서 **50개 이상의 유스케이스(Use Case)**와 **30개 이상의 상세 UI 화면**을 정의했습니다.
   * 또한, **애자일(Agile) 방식**으로 스프린트(Sprint) 회의를 진행하고 회의록을 작성하며 프로젝트 진행 과정을 체계적으로 기록하고 관리했습니다.
+
+   [![Web-FTP Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leeon3345&repo=Web-FTP&theme=dark&show_owner=true)](https://github.com/leeon3345/Web-FTP)
   <br>
   </br>
 
@@ -30,6 +32,7 @@
 * **[Problem]** "교실 속 미니어처 전투" 콘셉트의 3D 스텔스 게임 MVP를 제한된 학기 일정 내에 개발해야 하는 도전 과제였습니다.
 * **[Action]** 게임 기획자로서 '선생님 시야 회피(스텔스)'와 'RC카 교전(액션)'을 결합한 핵심 플레이 루프를 설계했습니다. 중간고사 등 예상되는 **개발 리스크를 식별**하고, **'핵심 기능(탈출) 우선 개발', 'AI 로직 단순화'** 등 구체적인 완화 전략을 수립하여 팀 일정을 관리했습니다.
 * **[Result]** 리스크 관리 전략을 통해 팀원 이탈 없이 중간 발표(전체 진행률 44%)를 성공적으로 완료했으며, 현재 기말 배포를 위해 핵심 기능을 구현 중입니다.
+* [**[Download] Web FTP 기획 산출물 (ZIP)**](https://github.com/leeon3345/ClassEscape-Group6/releases/tag/midterm-build)
 <br>
 </br>
   
@@ -40,6 +43,8 @@
 * **[Problem]** '기업 실적 발표가 주가에 미치는 영향은 기업 규모(시가총액)에 따라 어떻게 다를까?'라는 명확한 질문에서 시작했습니다.
 * **[Action]** 투자자 관점에서 `Companies`, `Earnings_Reports`, `Earnings_Reactions` 3개 테이블로 구성된 RDB 스키마를 설계했습니다. '섹터별 변동성 분석', '실적 서프라이즈 상위 소형주 선별' 등 **5가지 핵심 분석 시나리오**를 도출하고, `Subquery`, `STDDEV`, `GROUP BY`를 활용한 고급 분석 SQL 쿼리를 작성했습니다.
 * **[Result]** 실제 데이터(Apple, Nvidia, Tesla 및 소형주)를 삽입하여 5가지 분석 시나리오가 모두 정상 작동하는 것을 확인했습니다.
+
+[![US-Earnings-Analysis-DB Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leeon3345&repo=US-Earnings-Analysis-DB&theme=dark&show_owner=true)](https://github.com/leeon3345/US-Earnings-Analysis-DB)
 <br>
 </br>
   
@@ -56,7 +61,8 @@
 * **[Result]**
     * Git 사용법 가이드 및 명확한 R&R(역할과 책임) 정의를 통해, 초기 혼란 이후 중대한 머지 충돌 없이 프로젝트를 정상 궤도로 되돌렸습니다.
     * 최종적으로 사용자 친화적인 총 5페이지(Index + Day 1-4)의 웹사이트를 성공적으로 배포했습니다.
- 
+
+[![Bangkok-City-Guide Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leeon3345&repo=Bangkok-City-Guide&theme=dark&show_owner=true)](https://github.com/leeon3345/Bangkok-City-Guide) 
 ---
 
 ### 🛠️ **기술 스택**
