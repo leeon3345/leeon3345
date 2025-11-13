@@ -1,4 +1,7 @@
-# On Lee, Project Manager 
+
+# On Lee, Project Manager
+![figmaProto1-1](https://github.com/user-attachments/assets/bca7610d-f146-4ba1-90f6-c483b303fb42)
+
 > ## 팀의 잠재력을 이끌어내고 시너지를 최적화하는 PM입니다. 기획, UI 디자인, 개발 실무 경험을 바탕으로, 문제를 해결하고 아이디어를 성공적인 프로덕트로 실현하는 실행력을 가졌습니다
 --- 
 ### **:handshake: contacts**
