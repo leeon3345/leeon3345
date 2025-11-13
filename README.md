@@ -9,26 +9,6 @@
 
 ---
 
-### 🛠️ **기술 스택**
-
-#### 💪 주요 기술 
-
-| 분류 | 보유 기술 (Tools) | 활용 능력 (How I use them) |
-| :--- | :--- | :--- |
-| **PM&nbsp;&&nbsp;기획** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | **Figma**를 사용해 30개 이상의 상세 UI 와이어프레임과 프로토타입을 설계함.<br> **Notion**으로 50+ 유스케이스 및 70+ 페이지 분량의 요구사항 분석 명세서(RSD)를 작성하고 관리함|
-| **개발&nbsp;이해도** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) | **HTML/CSS**로 구조화된 웹 페이지(방콕 가이드)를 구축함.<br>**C# (Unity)** 환경에서 게임 로직('야자 재기') 및 레벨 디자인을 기획하고 구현함.<br>**Java/C**의 기본 문법을 이해하고 있음. |
-| **데이터&nbsp;분석** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | **MySQL**을 활용해 3-Tier RDB 스키마를 설계(ERD)하고, `Subquery`, `GROUP BY`, `STDDEV` 등 고급 쿼리를 작성하여 데이터를 분석함.<br>**Python**의 기본 문법과 데이터 분석 라이브러리 사용법을 학습함. |
-| **협업&nbsp;&&nbsp;디자인** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) | **Git/GitHub**를 활용, **Pull Request 기반 브랜치 전략**을 수립하고 팀 레포지토리를 관리함.<br>**CapCut**을 활용해 프로젝트 데모 영상(Web FTP, 야자 재기)을 편집하고 제작함. |
-
-#### 📚 학습 중인 기술
-
-| 분류 | 기술 스택 |
-|:-----|:----------|
-| **협업/프로젝트 관리** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
-| **개발 커뮤니케이션** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-
----
-
 ## 🚀 Projects
 
 ### 1. Web FTP (보안 파일 전송 SaaS - 팀 프로젝트)
@@ -76,8 +56,31 @@
 * **[Result]**
     * Git 사용법 가이드 및 명확한 R&R(역할과 책임) 정의를 통해, 초기 혼란 이후 중대한 머지 충돌 없이 프로젝트를 정상 궤도로 되돌렸습니다.
     * 최종적으로 사용자 친화적인 총 5페이지(Index + Day 1-4)의 웹사이트를 성공적으로 배포했습니다.
+ 
 ---
 
+### 🛠️ **기술 스택**
+
+#### 💪 주요 기술 
+
+| 분류 | 보유 기술 (Tools) | 활용 능력 (How I use them) |
+| :--- | :--- | :--- |
+| **PM&nbsp;&&nbsp;기획** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | **Figma**를 사용해 30개 이상의 상세 UI 와이어프레임과 프로토타입을 설계함.<br> **Notion**으로 50+ 유스케이스 및 70+ 페이지 분량의 요구사항 분석 명세서(RSD)를 작성하고 관리함|
+| **개발&nbsp;이해도** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) | **HTML/CSS**로 구조화된 웹 페이지(방콕 가이드)를 구축함.<br>**C# (Unity)** 환경에서 게임 로직('야자 재기') 및 레벨 디자인을 기획하고 구현함.<br>**Java/C**의 기본 문법을 이해하고 있음. |
+| **데이터&nbsp;분석** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | **MySQL**을 활용해 3-Tier RDB 스키마를 설계(ERD)하고, `Subquery`, `GROUP BY`, `STDDEV` 등 고급 쿼리를 작성하여 데이터를 분석함.<br>**Python**의 기본 문법과 데이터 분석 라이브러리 사용법을 학습함. |
+| **협업&nbsp;&&nbsp;디자인** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) | **Git/GitHub**를 활용, **Pull Request 기반 브랜치 전략**을 수립하고 팀 레포지토리를 관리함.<br>**CapCut**을 활용해 프로젝트 데모 영상(Web FTP, 야자 재기)을 편집하고 제작함. |
+
+#### 📚 학습 중인 기술
+
+| 분류 | 기술 스택 |
+|:-----|:----------|
+| **협업/프로젝트 관리** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+| **개발 커뮤니케이션** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+
+#### 📜 보유한 자격증 
+
+![GTQ 1급](https://img.shields.io/badge/GTQ_1급_(Photoshop)-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+---
 
 
 
