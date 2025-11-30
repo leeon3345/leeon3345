@@ -5,7 +5,7 @@
 > ### 사용자 중심의 시각으로 기술과 비즈니스를 연결하고, 실행력 있는 전략으로 프로젝트를 완성하는 PM입니다.
 --- 
 ### **:handshake: contacts**
-:telephone_receiver: **Phone :** 010 - 7225 - 2399 &nbsp;&nbsp; :envelope_with_arrow: **Email :** dldhs2020@gmail.com &nbsp;&nbsp; :card_index: **GitHub :** https://github.com/leeon3345/
+:telephone_receiver: **Phone :** 010 - xxxx - xxxx &nbsp;&nbsp; :envelope_with_arrow: **Email :** dldhs2020@gmail.com &nbsp;&nbsp; :card_index: **GitHub :** https://github.com/leeon3345/
 
 ---
 
